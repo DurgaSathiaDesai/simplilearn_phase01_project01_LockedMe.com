@@ -3,7 +3,7 @@
 # Table of contents
     General Info
     Requirements
-    Using the Application
+    
   
   # General Info
     LockedMe.com is a simple file management application in java
